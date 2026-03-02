@@ -1,0 +1,11 @@
+*.log
+
+*.vscode
+
+zhangsihan/Imageclass/dataset/
+
+*.pth
+
+*.json
+
+**/trainpath/
